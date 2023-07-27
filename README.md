@@ -8,4 +8,4 @@ Users are prompted to enter a source and destination folders. Then files are cop
 
 ## Installation
 
-This app is written in C. To run the application, execute the .c file.
+This app is written in C. To run the application, compile .c file.
